@@ -23,5 +23,5 @@ Again, from ansible machine run `ssh-copy-id hostname` for every server (s1, s2 
 ## Install ping in all hosts
  `ansible all -m apt -a "name=iputils-ping state=present"`
 
-## Do the samewith a  playbook
+## Do the same with a  playbook
 `ansible-playbook example.yml`
