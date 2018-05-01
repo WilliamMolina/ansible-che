@@ -1,4 +1,5 @@
 # Ansible quick start using Docker and Eclipse Che
+![Machines](screenshots/machines.png)
 # 1. Setup workspace
 - Open Eclipse Che.
 - Select "Stacks" and click "Build Stack From Recipe".
