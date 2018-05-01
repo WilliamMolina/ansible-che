@@ -47,3 +47,11 @@ Again, from ansible machine run `ssh-copy-id hostname` for every server (s1, s2 
 
 ## Do the same with a  playbook
 `ansible-playbook example.yml`
+
+
+# Code
+All files used to build Docker images, create Eclipse Che Stacks and configure Ansible hosts are available and you are free to modify them as you want.
+## For more information visit:
+- [Docker Documentation](https://docs.docker.com/)
+- [Eclipse Che Documentation](https://www.eclipse.org/che/docs/)
+- [Ansible Documentation](http://docs.ansible.com/)
