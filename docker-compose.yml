@@ -1,0 +1,10 @@
+version: "3.0"
+services:
+  s1:
+    image: "wondercode/ubuntu-ssh:16.04"
+  s2:
+    image: "wondercode/ubuntu-ssh:16.04"
+  s3:
+    image: "wondercode/ubuntu-ssh:16.04"
+  ansible:
+    image: "wondercode/ubuntu-ansible:16.04"

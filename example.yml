@@ -1,0 +1,5 @@
+---
+- hosts: all
+  tasks:
+  - name: install ping
+    apt: name=iputils-ping state=present
