@@ -1,8 +1,8 @@
 # Ansible quick start using Docker and Eclipse Che
-If you want to start playing with Ansible and don't want to create several VMs or don't have physical hosts, this is a good place to start.  
+If you want to start playing with Ansible and don't want to create several VM's or don't have physical hosts, this is a good place to start.  
 
 Using docker you can create a private network for your virtual hosts and play with Ansible.  
-Eclipse Che allows you to interact with those virtual hosts in a integrated and "natural" environment.  
+Eclipse Che allows you to interact with those virtual hosts in an integrated and "natural" environment.  
 **Let's start!.**
 # 1. Setup a new stack in Eclipse Che.
 - Login into  Eclipse Che console.  
