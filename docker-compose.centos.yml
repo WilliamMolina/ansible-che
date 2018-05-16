@@ -1,0 +1,10 @@
+version: "3.0"
+services:
+  s1:
+    image: "williammolina/centos:7"
+  s2:
+    image: "williammolina/centos:7"
+  s3:
+    image: "williammolina/centos:7"
+  ansible:
+    image: "williammolina/centos-ansible:7"
